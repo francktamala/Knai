@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Knai/static/css/main.7ca41d41.css",
-    "main.js": "/Knai/static/js/main.fe06f2f4.js",
+    "main.js": "/Knai/static/js/main.fcc93f1c.js",
     "static/js/488.02e7a208.chunk.js": "/Knai/static/js/488.02e7a208.chunk.js",
     "index.html": "/Knai/index.html",
     "main.7ca41d41.css.map": "/Knai/static/css/main.7ca41d41.css.map",
-    "main.fe06f2f4.js.map": "/Knai/static/js/main.fe06f2f4.js.map",
+    "main.fcc93f1c.js.map": "/Knai/static/js/main.fcc93f1c.js.map",
     "488.02e7a208.chunk.js.map": "/Knai/static/js/488.02e7a208.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ca41d41.css",
-    "static/js/main.fe06f2f4.js"
+    "static/js/main.fcc93f1c.js"
   ]
 }
